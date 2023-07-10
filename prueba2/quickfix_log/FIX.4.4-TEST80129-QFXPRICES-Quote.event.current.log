@@ -1,0 +1,73 @@
+20230710-01:27:40.000000000 : Created session
+20230710-01:27:40.000000000 : Connecting to demo.fx-edge.com on port 6660 (Source :0)
+20230710-01:27:40.000000000 : Initiated logon request
+20230710-01:27:43.000000000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20230710-01:27:43.000000000 : Received logon response
+20230710-01:43:06.000000000 : Created session
+20230710-01:43:06.000000000 : Connecting to demo.fx-edge.com on port 6660 (Source :0)
+20230710-01:43:07.000000000 : Initiated logon request
+20230710-01:43:07.000000000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20230710-01:43:07.000000000 : Received logon response
+20230710-02:48:48.000000000 : Created session
+20230710-02:48:48.000000000 : Connecting to demo.fx-edge.com on port 6660 (Source :0)
+20230710-02:48:48.000000000 : Initiated logon request
+20230710-02:48:52.000000000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20230710-02:48:52.000000000 : Received logon response
+20230710-02:51:29.000000000 : Socket Error: Se intentó realizar una operación en un elemento que no es un socket.
+
+20230710-02:51:29.000000000 : Disconnecting
+20230710-02:51:33.000000000 : Created session
+20230710-02:51:33.000000000 : Connecting to demo.fx-edge.com on port 6660 (Source :0)
+20230710-02:51:33.000000000 : Initiated logon request
+20230710-02:51:37.000000000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20230710-02:51:37.000000000 : Received logon response
+20230710-02:54:01.000000000 : Created session
+20230710-02:54:01.000000000 : Connecting to demo.fx-edge.com on port 6660 (Source :0)
+20230710-02:54:01.000000000 : Initiated logon request
+20230710-02:54:01.000000000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20230710-02:54:01.000000000 : Received logon response
+20230710-02:55:47.000000000 : Created session
+20230710-02:55:47.000000000 : Connecting to demo.fx-edge.com on port 6660 (Source :0)
+20230710-02:55:48.000000000 : Initiated logon request
+20230710-02:55:51.000000000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20230710-02:55:51.000000000 : Received logon response
+20230710-02:59:41.000000000 : Created session
+20230710-02:59:41.000000000 : Connecting to demo.fx-edge.com on port 6660 (Source :0)
+20230710-02:59:42.000000000 : Initiated logon request
+20230710-02:59:42.000000000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20230710-02:59:42.000000000 : Received logon response
+20230710-03:00:17.000000000 : Created session
+20230710-03:00:17.000000000 : Connecting to demo.fx-edge.com on port 6660 (Source :0)
+20230710-03:00:17.000000000 : Initiated logon request
+20230710-03:00:17.000000000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20230710-03:00:17.000000000 : Received logon response
+20230710-03:09:22.000000000 : Created session
+20230710-03:09:22.000000000 : Connecting to demo.fx-edge.com on port 6660 (Source :0)
+20230710-03:09:23.000000000 : Initiated logon request
+20230710-03:09:23.000000000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20230710-03:09:23.000000000 : Received logon response
+20230710-03:12:42.000000000 : Created session
+20230710-03:12:42.000000000 : Connecting to demo.fx-edge.com on port 6660 (Source :0)
+20230710-03:12:42.000000000 : Initiated logon request
+20230710-03:12:42.000000000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20230710-03:12:42.000000000 : Received logon response
+20230710-03:14:28.000000000 : Created session
+20230710-03:14:28.000000000 : Connecting to demo.fx-edge.com on port 6660 (Source :0)
+20230710-03:14:28.000000000 : Initiated logon request
+20230710-03:14:28.000000000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20230710-03:14:28.000000000 : Received logon response
+20230710-03:17:04.000000000 : Created session
+20230710-03:17:04.000000000 : Connecting to demo.fx-edge.com on port 6660 (Source :0)
+20230710-03:17:05.000000000 : Initiated logon request
+20230710-03:17:05.000000000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20230710-03:17:05.000000000 : Received logon response
+20230710-03:56:12.000000000 : Timed out waiting for heartbeat
+20230710-03:56:12.000000000 : Disconnecting
+20230710-03:56:12.000000000 : Initiated logon request
+20230710-11:33:51.000000000 : Connecting to demo.fx-edge.com on port 6660 (Source :0)
+20230710-11:33:52.000000000 : Initiated logon request
+20230710-11:33:52.000000000 : Logon contains ResetSeqNumFlag=Y, reseting sequence numbers to 1
+20230710-11:33:52.000000000 : Received logon response
+20230710-11:47:40.000000000 : Socket Error: Se intentó realizar una operación en un elemento que no es un socket.
+
+20230710-11:47:40.000000000 : Disconnecting
